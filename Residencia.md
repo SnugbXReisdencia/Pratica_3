@@ -24,7 +24,7 @@
 #### Em resumo, a paixão, a sede de aprendizado e a diversidade de oportunidades fazem da área de programação um lugar incrível para eu estar. Estamos moldando o presente e o futuro, um código de cada vez!! 💻🌟🚀.
 
 
-#Mikaelle Rúbia
+# Mikaelle Rúbia
 # Motivação e expectativas em relação à Residência.
 
 Aprofundar meus conhecimentos em áreas específicas da tecnologia da informação,
